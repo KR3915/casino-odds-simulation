@@ -39,6 +39,7 @@ def generate_card():
     values_list = extract_card()
     generated_val = values_list[random.randint(0,len(values_list) - 1)]
     return generated_val
+#player turn
 def player_turn():
     value = 0
     for i in range(2):
@@ -66,6 +67,7 @@ def player_turn():
             value = 0
             return value
             break
+#dealers turn
 def dealer_turn():
     i=0
     value = 0
@@ -86,8 +88,20 @@ def dealer_turn():
             value = 0
             return value
             break
-vl = player_turn()
-vld = dealer_turn()
+#game simulation
+def game():
+    settings = extract_game()
+    win = False
+    for i in range(settings[0]):
+        push = False
+        value_player = player_turn()
+        value_dealer = dealer_turn()
+        if value_player == 0:
+            win = False
+        if value_player>value_dealer:
+            win = True
+        if value_player == value_dealer
+            push = True
 print(vl)
 print(vld)
         
