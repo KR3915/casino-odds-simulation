@@ -35,12 +35,61 @@ def extract_card():
                 temp_var = ""
         return values_all
 #random vlaue
-def extract_card():
-    values_list = extract_card+()
+def generate_card():
+    values_list = extract_card()
     generated_val = values_list[random.randint(0,len(values_list) - 1)]
-    print (generated_val)
-game = extract_game()
-print(game)
+    return generated_val
+def player_turn():
+    value = 0
+    for i in range(2):
+        card = generate_card()
+        if card == "A":
+            if value + 11>21:
+                card = "1"
+            else:
+                card = "11"
+        value += int(card)
+    for x in range(20):
+        i = 0
+        if value<17:
+            card = generate_card()
+            if card == "A":
+               if value + 11>21:
+                card = "1"
+            else:
+                card = "11"
+            value += int(card)
+        elif value > 17 and value <= 21:
+            return value
+            break
+        elif value > 21:
+            value = 0
+            return value
+            break
+def dealer_turn():
+    i=0
+    value = 0
+    for x in range(20):
+        i = 0
+        if value<17:
+            card = generate_card()
+            if card == "A":
+               if value + 11>21:
+                card = "1"
+            else:
+                card = "11"
+            value += int(card)
+        elif value > 17 and value <= 21:
+            return value
+            break
+        elif value > 21:
+            value = 0
+            return value
+            break
+vl = player_turn()
+vld = dealer_turn()
+print(vl)
+print(vld)
         
         
 
