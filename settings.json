@@ -1,4 +1,22 @@
 {
     "cards":
-        [{"name":"A","value":11, "quantity":4}]
+            [
+        {"name":"A","value":11, "quantity":4},
+        {"name":"K","value":10, "quantity":4},
+        {"name":"Q","value":10, "quantity":4},
+        {"name":"J","value":10, "quantity":4},
+        {"name":"10","value":10, "quantity":4},
+        {"name":"9","value":9, "quantity":4},
+        {"name":"8","value":8, "quantity":4},
+        {"name":"7","value":7, "quantity":4},
+        {"name":"6","value":6, "quantity":4},
+        {"name":"5","value":5, "quantity":4},
+        {"name":"4","value":4, "quantity":4},
+        {"name":"3","value":3, "quantity":4},
+        {"name":"2","value":2, "quantity":4}
+            ],
+    "games":
+        [
+            {"turns":100, "bet":100, "balance":10000, "stand at":17}
+        ]
 }
