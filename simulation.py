@@ -45,29 +45,25 @@ def player_turn():
     for i in range(2):
         card = generate_card()
         if card == "A":
-            if value + 11>21:
+            if value + 11 > 21:
                 card = "1"
             else:
                 card = "11"
         value += int(card)
     for x in range(20):
-        if value<17:
-         if value<=17:
+        if value < 17:
             card = generate_card()
             if card == "A":
-               if value + 11>21:
-                card = "1"
-            else:
-                card = "11"
+                if value + 11 > 21:
+                    card = "1"
+                else:
+                    card = "11"
             value += int(card)
-        elif value > 17 and value <= 21:
+        elif 17 < value <= 21:
             return value
-            break
         elif value > 21:
-            value = 0
-            return value
-            break
-#dealers turn
+            return 0
+    return value  # Fallback návrat
 def dealer_turn():
     value = 0
     for x in range(20):
@@ -94,6 +90,7 @@ def game():
     wins = 0
     loses = 0
     for i in range(settings[0]):
+        print(dealer_turn())
         push = False
         value_player = player_turn()
         value_dealer = dealer_turn()
@@ -103,7 +100,7 @@ def game():
             win = True
         elif value_player == value_dealer:
             push = True
-        else:
+        elif int(value_player) < int(value_dealer):
             win = False
         if push == False:
             if win == False:
@@ -111,10 +108,8 @@ def game():
             else:
                 wins += 1
     print(f"wins: {wins}\nloses:{loses}")
-print(type(dealer_turn()))
-game()
-            
-        
+
+game()   
         
 
         
