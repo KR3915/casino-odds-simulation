@@ -17,6 +17,6 @@
             ],
     "games":
         [
-            {"turns":100, "bet":100, "balance":10000, "stand at":17}
+            {"turns":1000, "bet":100, "balance":10000, "stand at":17}
         ]
 }
