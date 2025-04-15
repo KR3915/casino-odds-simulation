@@ -1,500 +1,500 @@
 GAME:1
-    player cards:KK
-    player value:20
-   dealer cards: 2 7 K 
-dealer vallue: 19
-GAME:2
-    player cards:K9
+    player cards:3K6
     player value:19
-   dealer cards: 9 5 6 
+   dealer cards: K 7 
+dealer vallue: 17
+GAME:2
+    player cards:K39
+    player value:0
+   dealer cards: K K 
 dealer vallue: 20
 GAME:3
-    player cards:797
-    player value:0
-   dealer cards: 8 A 
-dealer vallue: 19
-GAME:4
-    player cards:3KK
-    player value:0
-   dealer cards: 7 9 K 
-dealer vallue: 0
-GAME:5
-    player cards:53K
+    player cards:855
     player value:18
-   dealer cards: 2 5 6 2 2 
-dealer vallue: 17
-GAME:6
-    player cards:K2K
-    player value:0
    dealer cards: K K 
 dealer vallue: 20
-GAME:7
+GAME:4
+    player cards:57K
+    player value:0
+   dealer cards: 7 K 
+dealer vallue: 17
+GAME:5
+    player cards:56K
+    player value:21
+   dealer cards: K A 
+dealer vallue: 21
+GAME:6
     player cards:AK
     player value:21
-   dealer cards: K K 
-dealer vallue: 20
+   dealer cards: K 4 2 K 
+dealer vallue: 0
+GAME:7
+    player cards:11
+    player value:17
+   dealer cards: K A 
+dealer vallue: 21
 GAME:8
-    player cards:2K9
-    player value:21
-   dealer cards: K K 
-dealer vallue: 20
-GAME:9
     player cards:KK
     player value:20
-   dealer cards: 5 A K 
+   dealer cards: 4 8 K 
+dealer vallue: 0
+GAME:9
+    player cards:4
+    player value:17
+   dealer cards: 3 8 5 A 
 dealer vallue: 0
 GAME:10
-    player cards:KA
-    player value:21
-   dealer cards: 2 K A 
-dealer vallue: 0
+    player cards:7
+    player value:17
+   dealer cards: K 3 8 
+dealer vallue: 21
 GAME:11
-    player cards:KK
-    player value:20
-   dealer cards: K 3 6 
-dealer vallue: 19
-GAME:12
-    player cards:4K5
-    player value:19
-   dealer cards: 6 K K 
-dealer vallue: 0
-GAME:13
-    player cards:K2K
-    player value:0
-   dealer cards: 6 K A 
-dealer vallue: 0
-GAME:14
-    player cards:K2A
-    player value:0
-   dealer cards: K 8 
-dealer vallue: 18
-GAME:15
-    player cards:75K
-    player value:0
-   dealer cards: A K 
-dealer vallue: 21
-GAME:16
-    player cards:6K9
-    player value:0
-   dealer cards: K 6 5 
-dealer vallue: 21
-GAME:17
-    player cards:K2A
-    player value:0
-   dealer cards: 9 8 
-dealer vallue: 17
-GAME:18
-    player cards:6
-    player value:17
-   dealer cards: 5 2 3 2 K 
-dealer vallue: 0
-GAME:19
-    player cards:KK
-    player value:20
-   dealer cards: 3 K 7 
-dealer vallue: 20
-GAME:20
-    player cards:K6K
-    player value:0
-   dealer cards: 6 K 8 
-dealer vallue: 0
-GAME:21
-    player cards:3KK
-    player value:0
-   dealer cards: 5 6 K 
-dealer vallue: 21
-GAME:22
-    player cards:454K
-    player value:0
-   dealer cards: K 7 
-dealer vallue: 17
-GAME:23
-    player cards:3K29
-    player value:0
-   dealer cards: 8 K 
-dealer vallue: 18
-GAME:24
-    player cards:8A
-    player value:19
-   dealer cards: 2 7 3 2 5 
-dealer vallue: 19
-GAME:25
-    player cards:10
-    player value:17
-   dealer cards: 8 K 
-dealer vallue: 18
-GAME:26
-    player cards:44K
+    player cards:936
     player value:18
-   dealer cards: 9 2 9 
+   dealer cards: 5 8 4 
+dealer vallue: 17
+GAME:12
+    player cards:94K
+    player value:0
+   dealer cards: K K 
 dealer vallue: 20
-GAME:27
-    player cards:A8
-    player value:19
-   dealer cards: 9 A 
-dealer vallue: 20
-GAME:28
+GAME:13
     player cards:K9
     player value:19
    dealer cards: K K 
 dealer vallue: 20
-GAME:29
-    player cards:84K
+GAME:14
+    player cards:789
     player value:0
-   dealer cards: 6 8 9 
+   dealer cards: 3 A K 
 dealer vallue: 0
-GAME:30
-    player cards:KK
-    player value:20
-   dealer cards: K 6 K 
-dealer vallue: 0
-GAME:31
-    player cards:884
-    player value:20
-   dealer cards: 5 5 K 
-dealer vallue: 20
-GAME:32
-    player cards:KK
-    player value:20
-   dealer cards: K 9 
-dealer vallue: 19
-GAME:33
-    player cards:2A5
+GAME:15
+    player cards:2K6
     player value:18
    dealer cards: K 7 
 dealer vallue: 17
-GAME:34
-    player cards:7A
-    player value:18
-   dealer cards: A K 
-dealer vallue: 21
-GAME:35
-    player cards:4KK
+GAME:16
+    player cards:328K
     player value:0
-   dealer cards: 7 9 7 
+   dealer cards: 7 8 K 
 dealer vallue: 0
-GAME:36
+GAME:17
+    player cards:AK
+    player value:21
+   dealer cards: K A 
+dealer vallue: 21
+GAME:18
+    player cards:563K
+    player value:0
+   dealer cards: 3 8 K 
+dealer vallue: 21
+GAME:19
     player cards:7
     player value:17
-   dealer cards: 8 K 
-dealer vallue: 18
-GAME:37
-    player cards:A27
+   dealer cards: K 4 5 
+dealer vallue: 19
+GAME:20
+    player cards:10
+    player value:17
+   dealer cards: 4 K 2 K 
+dealer vallue: 0
+GAME:21
+    player cards:2K8
     player value:20
    dealer cards: A 8 
 dealer vallue: 19
-GAME:38
-    player cards:2KA
-    player value:0
-   dealer cards: 7 7 6 
-dealer vallue: 20
-GAME:39
-    player cards:2
-    player value:17
-   dealer cards: 9 K 
-dealer vallue: 19
-GAME:40
-    player cards:K28
+GAME:22
+    player cards:6K4
     player value:20
-   dealer cards: 3 K 6 
-dealer vallue: 19
-GAME:41
-    player cards:793
-    player value:19
-   dealer cards: K K 
-dealer vallue: 20
-GAME:42
-    player cards:2
-    player value:17
-   dealer cards: 5 3 4 K 
+   dealer cards: 5 3 K 
+dealer vallue: 18
+GAME:23
+    player cards:K55
+    player value:20
+   dealer cards: A 3 K 
 dealer vallue: 0
-GAME:43
-    player cards:AK
-    player value:21
-   dealer cards: 7 9 3 
-dealer vallue: 19
-GAME:44
-    player cards:7A
+GAME:24
+    player cards:99
     player value:18
-   dealer cards: K 4 K 
+   dealer cards: 6 7 9 
 dealer vallue: 0
-GAME:45
-    player cards:KK
-    player value:20
-   dealer cards: 5 K A 
-dealer vallue: 0
-GAME:46
-    player cards:4K9
+GAME:25
+    player cards:492K
     player value:0
-   dealer cards: 5 K 7 
-dealer vallue: 0
-GAME:47
-    player cards:853A
-    player value:0
-   dealer cards: K K 
+   dealer cards: 8 2 2 8 
 dealer vallue: 20
-GAME:48
-    player cards:K27
-    player value:19
-   dealer cards: 6 9 9 
-dealer vallue: 0
-GAME:49
-    player cards:696
-    player value:21
-   dealer cards: 9 5 K 
-dealer vallue: 0
-GAME:50
-    player cards:KK
-    player value:20
+GAME:26
+    player cards:47A
+    player value:0
+   dealer cards: 3 8 9 
+dealer vallue: 20
+GAME:27
+    player cards:10
+    player value:17
    dealer cards: 7 K 
 dealer vallue: 17
-GAME:51
-    player cards:AK
-    player value:21
-   dealer cards: K K 
-dealer vallue: 20
-GAME:52
-    player cards:KK
-    player value:20
-   dealer cards: 8 5 4 
+GAME:28
+    player cards:789
+    player value:0
+   dealer cards: 9 5 K 
+dealer vallue: 0
+GAME:29
+    player cards:527K
+    player value:0
+   dealer cards: 5 3 3 6 
 dealer vallue: 17
-GAME:53
-    player cards:KK
-    player value:20
-   dealer cards: 2 5 3 A 
-dealer vallue: 21
-GAME:54
-    player cards:8
-    player value:17
-   dealer cards: 2 6 8 2 
-dealer vallue: 18
-GAME:55
-    player cards:A234
-    player value:20
-   dealer cards: 5 5 A 
-dealer vallue: 21
-GAME:56
-    player cards:11
-    player value:17
-   dealer cards: 4 K 9 
-dealer vallue: 0
-GAME:57
-    player cards:8A
-    player value:19
-   dealer cards: 2 4 7 9 
-dealer vallue: 0
-GAME:58
-    player cards:K9
-    player value:19
-   dealer cards: K 2 9 
-dealer vallue: 21
-GAME:59
-    player cards:6K7
+GAME:30
+    player cards:78K
     player value:0
-   dealer cards: K K 
-dealer vallue: 20
-GAME:60
-    player cards:2
-    player value:17
-   dealer cards: K K 
-dealer vallue: 20
-GAME:61
-    player cards:8K
-    player value:18
-   dealer cards: 2 3 7 K 
-dealer vallue: 0
-GAME:62
-    player cards:592K
-    player value:0
-   dealer cards: 2 K 6 
+   dealer cards: K 4 4 
 dealer vallue: 18
-GAME:63
-    player cards:7
-    player value:17
-   dealer cards: 5 6 8 
+GAME:31
+    player cards:38K
+    player value:21
+   dealer cards: K 4 5 
 dealer vallue: 19
-GAME:64
-    player cards:282K
-    player value:0
-   dealer cards: K A 
-dealer vallue: 21
-GAME:65
-    player cards:5K8
+GAME:32
+    player cards:K4A
     player value:0
    dealer cards: 4 8 K 
 dealer vallue: 0
-GAME:66
-    player cards:6K4
-    player value:20
-   dealer cards: 5 8 K 
-dealer vallue: 0
-GAME:67
-    player cards:AK
-    player value:21
-   dealer cards: 2 K K 
-dealer vallue: 0
-GAME:68
-    player cards:7
-    player value:17
-   dealer cards: 8 K 
-dealer vallue: 18
-GAME:69
-    player cards:4577
-    player value:0
-   dealer cards: K A 
-dealer vallue: 21
-GAME:70
-    player cards:K9
-    player value:19
-   dealer cards: A K 
-dealer vallue: 21
-GAME:71
-    player cards:65K
-    player value:21
-   dealer cards: 5 K K 
-dealer vallue: 0
-GAME:72
-    player cards:9K
-    player value:19
-   dealer cards: 9 9 
-dealer vallue: 18
-GAME:73
-    player cards:K48
-    player value:0
-   dealer cards: 4 4 K 
-dealer vallue: 18
-GAME:74
-    player cards:KK
-    player value:20
-   dealer cards: 5 K 8 
-dealer vallue: 0
-GAME:75
-    player cards:KK
-    player value:20
-   dealer cards: 3 6 K 
-dealer vallue: 19
-GAME:76
-    player cards:K49
-    player value:0
-   dealer cards: 3 5 7 K 
-dealer vallue: 0
-GAME:77
-    player cards:57K
-    player value:0
-   dealer cards: 5 K 2 
-dealer vallue: 17
-GAME:78
-    player cards:K27
-    player value:19
-   dealer cards: 2 3 A K 
-dealer vallue: 0
-GAME:79
-    player cards:38K
-    player value:21
-   dealer cards: K 6 A 
-dealer vallue: 0
-GAME:80
-    player cards:97A
-    player value:0
-   dealer cards: 2 A 8 
-dealer vallue: 21
-GAME:81
-    player cards:26K
-    player value:18
-   dealer cards: 4 K A 
-dealer vallue: 0
-GAME:82
-    player cards:945
-    player value:18
-   dealer cards: 4 5 2 7 
-dealer vallue: 18
-GAME:83
-    player cards:859
+GAME:33
+    player cards:779
     player value:0
    dealer cards: K K 
 dealer vallue: 20
-GAME:84
-    player cards:9A
-    player value:20
-   dealer cards: 6 K 3 
-dealer vallue: 19
-GAME:85
-    player cards:KK
-    player value:20
-   dealer cards: A 4 5 
+GAME:34
+    player cards:97A
+    player value:0
+   dealer cards: 8 2 K 
 dealer vallue: 20
-GAME:86
-    player cards:4AK
-    player value:0
-   dealer cards: K 9 
-dealer vallue: 19
-GAME:87
-    player cards:AK
-    player value:21
-   dealer cards: 5 6 4 9 
-dealer vallue: 0
-GAME:88
-    player cards:4464
-    player value:18
-   dealer cards: K 2 K 
-dealer vallue: 0
-GAME:89
-    player cards:36A
-    player value:20
-   dealer cards: 6 2 4 7 
-dealer vallue: 19
-GAME:90
-    player cards:6
-    player value:17
-   dealer cards: K A 
-dealer vallue: 21
-GAME:91
-    player cards:2KK
-    player value:0
-   dealer cards: K A 
-dealer vallue: 21
-GAME:92
-    player cards:11
-    player value:17
-   dealer cards: 5 2 5 7 
-dealer vallue: 19
-GAME:93
-    player cards:KK
-    player value:20
-   dealer cards: A 7 
-dealer vallue: 18
-GAME:94
-    player cards:9A
-    player value:20
-   dealer cards: 8 9 
-dealer vallue: 17
-GAME:95
-    player cards:59K
-    player value:0
-   dealer cards: K 6 K 
-dealer vallue: 0
-GAME:96
-    player cards:28A
-    player value:21
-   dealer cards: 7 K 
-dealer vallue: 17
-GAME:97
-    player cards:9K
-    player value:19
-   dealer cards: 8 7 A 
-dealer vallue: 0
-GAME:98
+GAME:35
     player cards:K9
     player value:19
-   dealer cards: 2 K 4 7 
+   dealer cards: 9 2 8 
+dealer vallue: 19
+GAME:36
+    player cards:729
+    player value:18
+   dealer cards: A 4 K 
+dealer vallue: 0
+GAME:37
+    player cards:749
+    player value:20
+   dealer cards: K K 
+dealer vallue: 20
+GAME:38
+    player cards:2K3K
+    player value:0
+   dealer cards: K K 
+dealer vallue: 20
+GAME:39
+    player cards:5KK
+    player value:0
+   dealer cards: 6 2 K 
+dealer vallue: 18
+GAME:40
+    player cards:3K5
+    player value:18
+   dealer cards: 7 K 
+dealer vallue: 17
+GAME:41
+    player cards:32AA
+    player value:0
+   dealer cards: 8 K 
+dealer vallue: 18
+GAME:42
+    player cards:775
+    player value:19
+   dealer cards: 6 8 K 
+dealer vallue: 0
+GAME:43
+    player cards:KK
+    player value:20
+   dealer cards: A 5 5 
+dealer vallue: 21
+GAME:44
+    player cards:11
+    player value:17
+   dealer cards: K A 
+dealer vallue: 21
+GAME:45
+    player cards:42KK
+    player value:0
+   dealer cards: A 2 K 
+dealer vallue: 0
+GAME:46
+    player cards:92K
+    player value:21
+   dealer cards: 2 K K 
+dealer vallue: 0
+GAME:47
+    player cards:KK
+    player value:20
+   dealer cards: 4 2 2 K 
+dealer vallue: 18
+GAME:48
+    player cards:A7
+    player value:18
+   dealer cards: K K 
+dealer vallue: 20
+GAME:49
+    player cards:KK
+    player value:20
+   dealer cards: K 7 
+dealer vallue: 17
+GAME:50
+    player cards:499
+    player value:0
+   dealer cards: 2 9 6 
+dealer vallue: 17
+GAME:51
+    player cards:8K
+    player value:18
+   dealer cards: 6 4 3 4 
+dealer vallue: 17
+GAME:52
+    player cards:2
+    player value:17
+   dealer cards: 9 5 8 
+dealer vallue: 0
+GAME:53
+    player cards:758
+    player value:20
+   dealer cards: 3 K 8 
+dealer vallue: 21
+GAME:54
+    player cards:7
+    player value:17
+   dealer cards: K 7 
+dealer vallue: 17
+GAME:55
+    player cards:427K
+    player value:0
+   dealer cards: K A 
+dealer vallue: 21
+GAME:56
+    player cards:65K
+    player value:21
+   dealer cards: K 5 4 
+dealer vallue: 19
+GAME:57
+    player cards:42256
+    player value:19
+   dealer cards: 4 9 6 
+dealer vallue: 19
+GAME:58
+    player cards:63K
+    player value:19
+   dealer cards: 4 K 9 
+dealer vallue: 0
+GAME:59
+    player cards:53K
+    player value:18
+   dealer cards: K 8 
+dealer vallue: 18
+GAME:60
+    player cards:K9
+    player value:19
+   dealer cards: 2 3 2 8 K 
+dealer vallue: 0
+GAME:61
+    player cards:KK
+    player value:20
+   dealer cards: 3 2 8 7 
+dealer vallue: 20
+GAME:62
+    player cards:K326
+    player value:21
+   dealer cards: 5 2 5 2 A 
+dealer vallue: 0
+GAME:63
+    player cards:487
+    player value:19
+   dealer cards: 4 K 2 K 
+dealer vallue: 0
+GAME:64
+    player cards:8K
+    player value:18
+   dealer cards: 7 4 K 
+dealer vallue: 21
+GAME:65
+    player cards:KK
+    player value:20
+   dealer cards: 3 4 K 
+dealer vallue: 17
+GAME:66
+    player cards:AK
+    player value:21
+   dealer cards: 4 9 6 
+dealer vallue: 19
+GAME:67
+    player cards:KK
+    player value:20
+   dealer cards: K 3 K 
+dealer vallue: 0
+GAME:68
+    player cards:K37
+    player value:20
+   dealer cards: K 4 9 
+dealer vallue: 0
+GAME:69
+    player cards:AK
+    player value:21
+   dealer cards: K K 
+dealer vallue: 20
+GAME:70
+    player cards:7
+    player value:17
+   dealer cards: 5 3 A 
+dealer vallue: 19
+GAME:71
+    player cards:77K
+    player value:0
+   dealer cards: K 6 A 
+dealer vallue: 0
+GAME:72
+    player cards:KK
+    player value:20
+   dealer cards: K 6 6 
+dealer vallue: 0
+GAME:73
+    player cards:AK
+    player value:21
+   dealer cards: 5 K K 
+dealer vallue: 0
+GAME:74
+    player cards:29A
+    player value:0
+   dealer cards: 3 7 A 
+dealer vallue: 21
+GAME:75
+    player cards:57K
+    player value:0
+   dealer cards: 4 2 6 9 
+dealer vallue: 21
+GAME:76
+    player cards:KK
+    player value:20
+   dealer cards: 3 6 3 9 
+dealer vallue: 21
+GAME:77
+    player cards:4AK
+    player value:0
+   dealer cards: 2 4 2 2 K 
+dealer vallue: 20
+GAME:78
+    player cards:849
+    player value:21
+   dealer cards: K K 
+dealer vallue: 20
+GAME:79
+    player cards:3K5
+    player value:18
+   dealer cards: K 7 
+dealer vallue: 17
+GAME:80
+    player cards:7
+    player value:17
+   dealer cards: K 7 
+dealer vallue: 17
+GAME:81
+    player cards:2KK
+    player value:0
+   dealer cards: 8 K 
+dealer vallue: 18
+GAME:82
+    player cards:9
+    player value:17
+   dealer cards: 9 6 K 
+dealer vallue: 0
+GAME:83
+    player cards:9
+    player value:17
+   dealer cards: K 5 4 
+dealer vallue: 19
+GAME:84
+    player cards:73A
+    player value:21
+   dealer cards: 4 K 7 
+dealer vallue: 21
+GAME:85
+    player cards:846
+    player value:18
+   dealer cards: 2 9 A 
+dealer vallue: 0
+GAME:86
+    player cards:K69
+    player value:0
+   dealer cards: 3 9 K 
+dealer vallue: 0
+GAME:87
+    player cards:A35
+    player value:19
+   dealer cards: 4 2 K K 
+dealer vallue: 0
+GAME:88
+    player cards:4K5
+    player value:19
+   dealer cards: 3 K 4 
+dealer vallue: 17
+GAME:89
+    player cards:K4K
+    player value:0
+   dealer cards: K 8 
+dealer vallue: 18
+GAME:90
+    player cards:KK
+    player value:20
+   dealer cards: 5 9 2 9 
+dealer vallue: 0
+GAME:91
+    player cards:2
+    player value:17
+   dealer cards: K 7 
+dealer vallue: 17
+GAME:92
+    player cards:785
+    player value:20
+   dealer cards: 4 3 6 4 
+dealer vallue: 17
+GAME:93
+    player cards:454K
+    player value:0
+   dealer cards: 4 5 6 A 
+dealer vallue: 0
+GAME:94
+    player cards:KK
+    player value:20
+   dealer cards: 2 2 9 7 
+dealer vallue: 20
+GAME:95
+    player cards:3A27
+    player value:0
+   dealer cards: A 7 
+dealer vallue: 18
+GAME:96
+    player cards:KK
+    player value:20
+   dealer cards: A K 
+dealer vallue: 21
+GAME:97
+    player cards:2
+    player value:17
+   dealer cards: 5 2 5 A 
+dealer vallue: 0
+GAME:98
+    player cards:628K
+    player value:0
+   dealer cards: K 6 6 
 dealer vallue: 0
 GAME:99
-    player cards:25524
-    player value:18
-   dealer cards: 6 6 K 
-dealer vallue: 0
+    player cards:7
+    player value:17
+   dealer cards: K A 
+dealer vallue: 21
 GAME:100
-    player cards:3KK
-    player value:0
-   dealer cards: 6 9 3 
-dealer vallue: 18
+    player cards:9
+    player value:17
+   dealer cards: 5 K K 
+dealer vallue: 0
